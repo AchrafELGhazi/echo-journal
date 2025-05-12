@@ -97,7 +97,7 @@ const VoiceJournal = () => {
       <div className='border-4 border-amber-800 p-8 rounded-lg shadow-lg bg-amber-50'>
         <header className='text-center mb-8 border-b-2 border-amber-800 pb-4'>
           <h1 className='text-3xl font-serif font-bold text-amber-800 mb-2'>
-            Vintage Voice Journal
+           Echo Journal
           </h1>
           <p className='text-amber-700 font-serif italic'>
             Speak your thoughts and save them for posterity
